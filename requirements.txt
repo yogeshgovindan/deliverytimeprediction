@@ -6,3 +6,4 @@ scipy
 geopy
 scikit-learn
 xgboost
+streamlit
